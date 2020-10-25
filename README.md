@@ -1,1 +1,1 @@
-# GitHub-Bugs-Prediction-Challenge-Hackathon-MachineHack-Hac
+# GitHub-Bugs-Prediction-Challenge-Hackathon-MachineHack
